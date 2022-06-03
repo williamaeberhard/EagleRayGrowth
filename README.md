@@ -24,3 +24,6 @@ This is EagleRayGrowth version 0.4.3. This is the initial release.
 
 Boggio-Pasqua, A., Bassos-Hull, K., Aeberhard, W. H., Hoopes, L. A., Swider, D. A., Wilkinson, K. A., and Dureuil, M. (2022+) Whitespotted eagle ray (Aetobatus narinari) age and growth in wild (in situ) versus aquarium-housed (ex situ) individuals: implications for conservation and management. Submitted
 
+Fabens, A. J. (1965). Properties and Fitting of the von Bertalanffy Growth Curve. Growth, 29, 265-289
+
+
